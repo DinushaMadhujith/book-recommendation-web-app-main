@@ -65,17 +65,17 @@ This project was developed with the support and collaboration of:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Viraj-005">
-        <img src="https://github.com/Viraj-005.png" width="100px;" alt="Viraj Induruwa"/>
-        <br />
-        <sub><b>Viraj Induruwa</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DinushaMadhujith">
         <img src="https://github.com/DinushaMadhujith.png" width="100px;" alt="Dinusha Madhujith"/>
         <br />
         <sub><b>Dinusha Madhujith</b></sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/Viraj-005">
+        <img src="https://github.com/Viraj-005.png" width="100px;" alt="Viraj Induruwa"/>
+        <br />
+        <sub><b>Viraj Induruwa</b></sub>
       </a>
     </td>
     <td align="center">
@@ -121,4 +121,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-For any inquiries, please reach out to [virajinduruwa2@gmail.com](mailto:your-email@example.com).
+For any inquiries, please reach out to [dinu888@gmail.com](mailto:your-email@example.com).
